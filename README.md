@@ -1,3 +1,3 @@
 # inicio
 
-A babi é linda! -- mentira
+A babi é linda! -- muito mentira
